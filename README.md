@@ -1,8 +1,8 @@
 # Obsidian / Quartz / GitHub Pages Template
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+Deployed URL: https://matra-master.github.io/twentieth-second-brain/
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+Template for hosting your Obsidian notebook on GitHub pages with CI deployment.
 
 ## Basic setup
 
