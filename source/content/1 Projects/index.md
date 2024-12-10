@@ -1,5 +1,5 @@
 ---
-title: Projects Section
+title: 1 Projects
 ---
 
 ## Objective

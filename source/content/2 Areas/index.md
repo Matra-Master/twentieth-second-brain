@@ -1,5 +1,5 @@
 ---
-title: Areas Section
+title: 2 Areas
 ---
 
 ## Objective

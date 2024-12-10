@@ -1,4 +1,4 @@
 ---
-title: Resources Section
+title: 3 Resources
 ---
 

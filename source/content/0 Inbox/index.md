@@ -1,5 +1,5 @@
 ---
-title: Inbox Section
+title: 0 Inbox
 ---
 
 The PARA method doesn't include this. This is a personal modification.
