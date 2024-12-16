@@ -1,4 +1,6 @@
-Created at {{date:YYYYMMDD}}-{{time:HHmm}}
+---
+created: "{{date:YYYYMMDD}}-{{time:HHmm}}"
+---
 
 ## Intro
 

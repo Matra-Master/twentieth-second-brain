@@ -1,5 +1,5 @@
 ---
-Created: {{date:YYYYMMDD}}-{{time:HHmm}}
+created: "{{date:YYYYMMDD}}-{{time:HHmm}}"
 Type:
 Culinary Culture:
 tags: recipe, cooking
