@@ -1,1 +1,11 @@
-{}
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "useTab": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 Inbox",
+  "showUnsupportedFiles": true
+}
