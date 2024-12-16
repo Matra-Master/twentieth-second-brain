@@ -5,5 +5,14 @@
       "key": "F1"
     }
   ],
-  "app:open-help": []
+  "app:open-help": [],
+  "workspace:new-tab": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }
