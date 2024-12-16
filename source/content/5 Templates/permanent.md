@@ -7,7 +7,6 @@ tags:
 ---
 ## Related Ideas 
 * [[permanent]]
-* [[]]
 
 
 ## Sources

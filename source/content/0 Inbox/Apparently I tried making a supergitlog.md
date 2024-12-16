@@ -27,4 +27,3 @@ git log --oneline --author="$AUTHOR" --since="$START_DATE" --until="$END_DATE"
 ---
 ## Related Ideas:
 * [[fleeting]]
-* [[]]

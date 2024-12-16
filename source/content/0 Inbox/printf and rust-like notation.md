@@ -27,4 +27,3 @@ printf '/media/%s/%s/T.tgz' "$USER" 'DEVICE'
 ---
 ## Related Ideas:
 * [[fleeting]]
-* [[]]

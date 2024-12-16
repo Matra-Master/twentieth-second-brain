@@ -8,4 +8,3 @@ What will you discover today?
 ---
 ## Related Ideas:
 * [[fleeting]]
-* [[]]
