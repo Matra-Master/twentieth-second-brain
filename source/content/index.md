@@ -14,3 +14,18 @@ Por ahora sigue el diseño de [The PARA Method](https://www.youtube.com/watch?v=
 # [[3 Resources/index|3 Resources]]
 # [[4 Archive/index|4 Archive]]
 # [[5 Templates/index|5 Templates]]
+
+---
+
+# TODO
+
+- [x] Migrar Templates
+- [ ] Migrar Projects
+- [ ] Migrar Areas
+- [ ] Migrar Resources
+- [ ] Migrar Archive
+- [ ] Procesar Inbox
+- [ ] Procesar _fleeting notes_ de mi anterior Vault
+- [ ] Procesar carpeta _'some_box'_ de mi anterior Vault
+- [ ] Elegir e implementar _theme_
+- [ ] Investigar integración con [Excalidraw](https://excalidraw.com/)
