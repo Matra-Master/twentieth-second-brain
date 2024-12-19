@@ -19,6 +19,7 @@ Por ahora sigue el diseño de [The PARA Method](https://www.youtube.com/watch?v=
 
 # TODO
 
+- [x] Migrar Inbox
 - [x] Migrar Templates
 - [ ] Migrar Projects
 - [ ] Migrar Areas
