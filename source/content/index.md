@@ -19,9 +19,10 @@ Por ahora sigue el diseño de [The PARA Method](https://www.youtube.com/watch?v=
 
 # TODO
 
+- [x] Crear un todo list con al menos 4 tareas
 - [x] Migrar Inbox
 - [x] Migrar Templates
-- [ ] Migrar Projects
+- [x] Migrar Projects
 - [ ] Migrar Areas
 - [ ] Migrar Resources
 - [ ] Migrar Archive
