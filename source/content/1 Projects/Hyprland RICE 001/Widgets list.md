@@ -1,0 +1,14 @@
+- Clockify counter with `clockify-cli` info
+- Keyboard layout show
+- App bar with 6 app icons and their tooltips
+- Shutdown bar with buttons to suspend, reboot and stuff. Those should open the confirmation screen
+- Clock and date
+- Sliders: volume, brightness, processor maybe, disk size
+- Media player widget
+- Spotify widget
+- 4 buttons widget thing: Home, disk, downloads, pictures
+- Some random daily phrase
+- Sidebar de notificaciones
+- Sidebar de wallpapers
+
+- Single: Sliders

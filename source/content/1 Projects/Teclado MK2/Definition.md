@@ -1,0 +1,72 @@
+---
+created: 20240826-1719
+status: 
+tags:
+  - projects
+---
+
+Expected Deadline::forever
+Area::
+
+## Resources
+
+### Notes
+
+List of pins used:
+
+col_pins
+  board.GP9
+  board.GP8
+  board.GP7
+  board.GP6
+  board.GP5
+  board.GP4
+  board.GP3
+  board.GP2
+
+row_pins
+  board.GP15
+  board.GP14
+  board.GP13
+  board.GP12
+  board.GP11
+  board.GP10
+
+data_pin board.GP17     # RX on the primary board
+data_pin2 board.GP16    # TX on the primary board
+
+```
+['__class__', '__name__', 'A0', 'A1', 'A2', 'A3',
+'GP0', 'GP1', 'GP2', 'GP3', 'GP4', 'GP5', 'GP6', 'GP7', 'GP8', 'GP9', 
+'GP10', 'GP11', 'GP12', 'GP13', 'GP14', 'GP15', 'GP16', 'GP17', 'GP18', 'GP19',
+'GP20', 'GP21', 'GP22', 'GP26', 'GP26_A0', 'GP27', 'GP27_A1', 'GP28', 'GP28_A2',
+'LED', 'SMPS_MODE', 'STEMMA_I2C', 'VBUS_SENSE', 'VOLTAGE_MONITOR', '__dict__', 'board_id']
+```
+
+
+### External links
+
+[[MKII left wiring.jpg]]
+[[picow-pinout.svg]]
+[[Ergo_S-1_Layout.png]]
+[[ErgoS1 MKII Schematics.excalidraw]]
+
+## Planning
+Objective:
+- 
+
+Key Results:
+- 
+
+obstacles and their solutions:
+- 
+
+Timeframe:
+- 
+
+## Reflection
+Satisfied?:
+- 
+
+Improvements and solutions learned for the future:
+- 
