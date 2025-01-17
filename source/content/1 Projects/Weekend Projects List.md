@@ -32,6 +32,7 @@ This is an unordered list of my programming projects. Just the ones i would like
 25. [ ] HTMX research project
 26. [ ] Yu-gi-oh dungeon dice monsters terminal game
 27. [ ] Test AI assisted nvim plugin: https://github.com/yetone/avante.nvim
+28. [ ] Pantalla de D&D con el ojo del manual de monstruos de 3.5
 
 
 
