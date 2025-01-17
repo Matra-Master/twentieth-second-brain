@@ -25,7 +25,7 @@ Por ahora sigue el diseño de [The PARA Method](https://www.youtube.com/watch?v=
 - [x] Migrar Projects
 - [ ] Migrar Areas
 - [ ] Migrar Resources
-- [ ] Migrar Archive
+- [x] Migrar Archive
 - [ ] Procesar Inbox
 - [ ] Procesar _fleeting notes_ de mi anterior Vault
 - [ ] Procesar carpeta _'some_box'_ de mi anterior Vault
