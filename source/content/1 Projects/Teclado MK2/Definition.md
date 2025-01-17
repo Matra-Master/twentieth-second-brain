@@ -10,7 +10,21 @@ Area::
 
 ## Resources
 
+[picocom](https://github.com/npat-efault/picocom) mini serial terminal
+
 ### Notes
+
+#### TODO:
+- [ ] Reescribir config de kmk sin POG para mejorar uso de la memoria
+- [x] Resoldar cable rojo en columna 4 lado izquierdo
+- [x] Revisar columnas 1 y 2 en lado derecho
+- [x] Cambiar keycaps de lugar: / por =
+- [ ] Dibujar el layout real
+- [x] Checkear F8 left
+- [x] Checkear L right
+- [ ] Implementar modulo [Layer](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/layers.md)
+- [ ] Implementar modulo para [homerow mods](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/holdtap.md)
+- [ ] (Optional) LEDs?
 
 List of pins used:
 
@@ -32,8 +46,8 @@ row_pins
   board.GP11
   board.GP10
 
-data_pin board.GP17     # RX on the primary board
-data_pin2 board.GP16    # TX on the primary board
+data_pin board.GP1     # RX on the primary board
+data_pin2 board.GP0    # TX on the primary board
 
 ```
 ['__class__', '__name__', 'A0', 'A1', 'A2', 'A3',
@@ -51,9 +65,11 @@ data_pin2 board.GP16    # TX on the primary board
 [[Ergo_S-1_Layout.png]]
 [[ErgoS1 MKII Schematics.excalidraw]]
 
+[Alternative QMK pico config from some dude](https://www.vikasraj.dev/blog/qmk-pi-pico-rp2040)
+
 ## Planning
 Objective:
-- 
+- Tener un nuevo teclado funcional para el trabajo
 
 Key Results:
 - 
