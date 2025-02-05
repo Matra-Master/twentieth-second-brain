@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources/random
+---
+
 Lista de tokens de monopoly y sus años
 
 | Token              | Introduced | Retired |

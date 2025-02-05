@@ -1,5 +1,6 @@
 ---
 tags:
+  - Resources/programming
 ---
 # German strings explained
 
@@ -31,4 +32,5 @@ Parecido al string normal pero con dos vueltas de rosca:
 
 ---
 ## Links:
-* [Article about german strings in rust](https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/#german-strings)
+
+* https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/#german-strings

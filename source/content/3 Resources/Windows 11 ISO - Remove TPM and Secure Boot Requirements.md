@@ -1,3 +1,11 @@
+---
+created: 20241216-1514
+tags:
+  - Resources/windows
+  - Resources/os
+  - Resources/install
+---
+
 ## Use Rufus
 
 _This method is handy if you want a quick and easy way to create USB installation media for Windows 11. You will need an 8GB or larger USB flash drive_

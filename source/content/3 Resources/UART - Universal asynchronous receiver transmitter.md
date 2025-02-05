@@ -1,6 +1,9 @@
 ---
 created: 20241216-1514
 tags:
+  - Resources/embedded
+  - Resources/uart
+  - Resources/protocol
 ---
 Protocolo asíncrono de comunicación entre piezas de hardware. 
 _Asíncrono_ porque una transmisión puede llegar en cualquier momento, sin coordinar con el clock del dispositivo receptor. 
@@ -13,7 +16,7 @@ TX transmisor
 Paquete:
 
 ![[Pasted image 20241216154736.png]]
- 
+
 
 Start Bit
 Data Frame
