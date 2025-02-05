@@ -1,5 +1,5 @@
 ---
-created: "{{date:YYYYMMDD}}-{{time:HHmm}}"
+created: {{date:YYYYMMDD}}-{{time:HHmm}}
 book:
 author/s: 
 tags: cite, book
@@ -9,4 +9,4 @@ tags: cite, book
 
 ---
 ## Connections
-* [[cites]]
+* [[]]

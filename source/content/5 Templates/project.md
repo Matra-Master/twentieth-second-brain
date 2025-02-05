@@ -1,5 +1,5 @@
 ---
-created: "{{date:YYYYMMDD}}-{{time:HHmm}}"
+created: {{date:YYYYMMDD}}-{{time:HHmm}}
 status: 
 tags: projects
 ---
@@ -8,6 +8,7 @@ Expected Deadline::
 Area::
 
 ## Resources
+### Tooling
 
 ### Notes
 ### External links
