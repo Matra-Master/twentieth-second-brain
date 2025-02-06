@@ -21,3 +21,4 @@ Lista de proyectos REAL, la que anoté con la psicóloga:
 - Auris Blancos USB 3D Print
 - NixOS de oficina
 - Learn to use LÖVE2d and lua by making a game
+- Nes esp32 joytsick https://github.com/lemmingDev/ESP32-BLE-Gamepad
