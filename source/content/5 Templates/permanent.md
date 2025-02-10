@@ -1,12 +1,13 @@
 ---
-created: {{date:YYYYMMDD}}-{{time:HHmm}}
-tags: 
+created: "{{date:YYYYMMDD}}-{{time:HHmm}}"
+tags:
+  - 
+  - 
 ---
 
 
 ---
-## Related Ideas 
-* [[permanent]]
-
 
 ## Sources
+
+

@@ -1,6 +1,6 @@
 ---
-created: {{date:YYYYMMDD}}-{{time:HHmm}}
-status: 
+created: "{{date:YYYYMMDD}}-{{time:HHmm}}"
+status:
 tags: projects
 ---
 
