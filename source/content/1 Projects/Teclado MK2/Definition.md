@@ -1,12 +1,12 @@
 ---
 created: 20240826-1719
-status: 
+status: Done
 tags:
   - projects
 ---
 
 Expected Deadline::forever
-Area::
+Area::Electronics
 
 ## Resources
 

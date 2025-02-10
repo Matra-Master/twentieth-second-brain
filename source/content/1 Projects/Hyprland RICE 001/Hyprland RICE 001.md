@@ -23,6 +23,10 @@ https://www.reddit.com/r/unixporn/comments/x9vzdy/bspwm_arch_with_eww_widgets/
 ### Notes
 [[Dependencies]]
 
+AGS was renamed to Astal. AGS is now the name of the cli for Astal. 
+
+ChatGPT holds many questions about how to make the thing responsive and stuff.
+
 ### External links
 
 An example vertical layout repo and video
