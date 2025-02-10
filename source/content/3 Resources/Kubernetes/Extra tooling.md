@@ -2,11 +2,10 @@
 id: Extra tooling
 aliases: []
 tags:
-  - kubernetes,
+  - kubernetes
   - servers
 created: "20250127-1500"
 ---
-
 ## Flux
 
 To manage Kubernetes clusters by applying GitOps

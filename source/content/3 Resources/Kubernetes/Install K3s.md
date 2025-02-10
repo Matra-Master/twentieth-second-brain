@@ -1,8 +1,6 @@
 ---
-id: Install K3s
-aliases: []
 tags:
-  - kubernetes,
+  - kubernetes
   - servers
 created: "20250127-1500"
 ---
