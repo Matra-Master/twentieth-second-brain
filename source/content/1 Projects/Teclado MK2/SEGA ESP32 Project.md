@@ -19,7 +19,6 @@ ESP32 stepping stone things to build in code:
 
 ---
 ## Related Ideas:
-* [[permanent]]
 - [[ESP32 Sega pinouts.excalidraw]]
 - [[SEGA controller diagram.jpg]]
 - [[SEGA color cables.jpeg]]

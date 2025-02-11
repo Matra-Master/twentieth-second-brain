@@ -12,9 +12,3 @@ tags: code,snippets,git
 
   
 ---
-## Related Ideas 
-* [[permanent]]
-* [[Git]]
-
-
-## Sources

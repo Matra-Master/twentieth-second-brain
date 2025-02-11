@@ -1,5 +1,4 @@
 20220624-1118
-### Tags: #git
 
 # References
 [Git Documentation](https://git-scm.com/docs)

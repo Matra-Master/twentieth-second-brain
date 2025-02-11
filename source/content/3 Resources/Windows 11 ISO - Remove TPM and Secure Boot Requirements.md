@@ -25,6 +25,3 @@ _This method is handy if you want a quick and easy way to create USB installatio
 ### Source
 
 https://i12bretro.github.io/tutorials/0635.html
-
----
-[[permanent]]

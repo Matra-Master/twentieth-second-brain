@@ -24,10 +24,5 @@ pacman -S hyprlang
 ```
 
 ---
-## Related Ideas
-* [[permanent]]
-
-
-
 ## Sources
 

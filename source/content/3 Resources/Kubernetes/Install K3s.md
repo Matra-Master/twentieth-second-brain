@@ -54,10 +54,8 @@ kubectl get nodes
 kubectl get pods -A
 ```
 
-
 ---
 ## Related Ideas
-* [[permanent]]
 * check [[Extra tooling]]
 
 

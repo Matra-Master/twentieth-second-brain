@@ -37,10 +37,6 @@ sudo install -m 755 kubeseal /usr/local/bin/kubeseal
 ```
 
 ---
-## Related Ideas
-* [[permanent]]
-
-
 ## Sources
 
 https://fluxcd.io/flux/installation/#install-the-flux-cli

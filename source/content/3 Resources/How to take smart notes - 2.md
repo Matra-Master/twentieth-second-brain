@@ -17,4 +17,3 @@ Cosas concretas que hacía Luhmann con sus notas y fichas
 
 ---
 ## Related Ideas:
-* [[fleeting]]

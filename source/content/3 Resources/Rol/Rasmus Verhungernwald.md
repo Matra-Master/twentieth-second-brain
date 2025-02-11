@@ -35,8 +35,7 @@ lo tuvo en su presencia.
 
 
 ---
-## Related Ideas 
-* [[permanent]]
+## Related Ideas
 * [[Rasmus character traits.excalidraw]]
 * [DNDBeyond character](https://www.dndbeyond.com/characters/122558534)
 * [Proyecto Esmeralda](https://app.roll20.net/campaigns/details/14406431/proyecto-esmeralda)

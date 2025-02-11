@@ -39,9 +39,6 @@ This is an unordered list of my programming projects. Just the ones i would like
 
 
 ---
-## Related Ideas:
-* [[permanent]]
-
 # References
 
 https://pnpm.io/cli/fetch
