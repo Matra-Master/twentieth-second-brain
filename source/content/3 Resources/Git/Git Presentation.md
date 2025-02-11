@@ -28,9 +28,9 @@
 ### Emplear branches de descarte
 
 ---
-  
-## Proponer siguiente topic  
-* Más git  
-* Cosas avanzadas de las herramientas del resto: VSCode, Git Extensions, Docker Desktop,...
-* Docker  
+
+## Proponer siguiente topic
+* Más git
+* Cosas avanzadas de las herramientas del resto: VSCode, Git Extensions, Docker Desktop
+* Docker
 * Typescript Generics

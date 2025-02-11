@@ -1,10 +1,8 @@
 ---
-id: Pacman package replacements
-aliases: 
+created: 20250127-1229
 tags:
   - pacman
   - linux
-created: 20250127-1229
 ---
 
 # Conflict between "-git" packages and some from the arch repos

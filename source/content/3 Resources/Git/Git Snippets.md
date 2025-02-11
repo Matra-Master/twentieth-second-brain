@@ -1,6 +1,9 @@
 ---
 created: 20230728-1513
-tags: code,snippets,git
+tags:
+ - code
+ - snippets
+ - [[Git]]
 ---
 
 * Reset Hard to last commit
@@ -8,7 +11,6 @@ tags: code,snippets,git
 
 *  Returns the patch history of a file
   `git log -p -- filename`
-  
 
-  
 ---
+## Related Ideas

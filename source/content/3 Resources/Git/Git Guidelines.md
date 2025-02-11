@@ -1,6 +1,8 @@
-Status: #idea
-
-Tags:[[Git]]
+---
+tags:
+  - [[Git]]
+  - guide
+---
 
 ### Description
 Acá voy a recopilar cosas consideradas como **buenas prácticas** para que todxs puedan acceder y referenciar cuando tengan dudas de cómo proceder con git.
