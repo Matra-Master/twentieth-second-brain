@@ -30,5 +30,5 @@ Serie de tareas relacionadas a un objetivo. Con un **deadline**.
 ---
 
 Lista de proyectos por si te faltan cosas para hacer
-[[3 Resources/202404291538 Lista de proyectos real|202404291538 Lista de proyectos real]]
+[[3 Resources/Lista de proyectos real|Lista de proyectos real]]
 [[Weekend Projects List]]
