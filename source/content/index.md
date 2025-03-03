@@ -23,11 +23,12 @@ Por ahora sigue el diseño de [The PARA Method](https://www.youtube.com/watch?v=
 - [x] Migrar Inbox
 - [x] Migrar Templates
 - [x] Migrar Projects
-- [ ] Migrar Areas
+- [x] Migrar Areas
 - [ ] Migrar Resources
 - [x] Migrar Archive
+- [x] Procesar carpeta _'zettelkasten'_ de mi anterior Vault
+- [ ] Procesar carpeta _'some_box'_ de mi anterior Vault
 - [ ] Procesar Inbox
 - [ ] Procesar _fleeting notes_ de mi anterior Vault
-- [ ] Procesar carpeta _'some_box'_ de mi anterior Vault
 - [ ] Elegir e implementar _theme_
 - [ ] Investigar integración con [Excalidraw](https://excalidraw.com/)
