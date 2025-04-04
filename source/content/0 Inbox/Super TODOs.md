@@ -1,3 +1,8 @@
+---
+tags:
+  - todo
+---
+
 The big todo of my linux machine and it's software. Basically what I have to do to tidy mi digital room
 
 # TODO
@@ -22,3 +27,5 @@ The big todo of my linux machine and it's software. Basically what I have to do 
     - [ ] wlogout -> ../dotfiles/proxzima_hypr/.config/wlogout
 
 - [ ] Start making a new cleaner hyprland config
+
+- [ ] [[NeoNeovim]] - obsidian keymaps to open various telescope plugins like ObsidianQuickSwitch
