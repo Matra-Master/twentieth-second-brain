@@ -1,8 +1,10 @@
 ---
-created: "20250210-1453"
+created: 20250210-1453
 tags:
   - Resources/minikube
+  - Resources/kubernetes
 ---
+Kubernetes 101 also uses minikube so here's a mixin of both.
 
 # Minikube
 
@@ -97,3 +99,4 @@ minikube delete
 # Sources
 
 https://kubernetes.io/docs/tutorials/hello-minikube/
+https://minikube.sigs.k8s.io/docs/tutorials/kubernetes_101
