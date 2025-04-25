@@ -12,8 +12,9 @@ tags:
 **Cluster.** The abstract group formed by all the k8s machines (virtual or not).
 **Node.** One of the worker machines associated to a cluster that run apps. The bees to our hive.
 **Node Process.** An app or work order running inside a Node.
-**Deployment.** 
-**Service.** 
+**Deployment.**
+**Service.**
+**ReplicaSet.**
 
 
 ## Useful remarks
