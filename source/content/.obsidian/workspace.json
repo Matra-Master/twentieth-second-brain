@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2038262bc52120e4",
+        "id": "482d629f243be006",
         "type": "tabs",
         "children": [
           {
-            "id": "680279cf4697b559",
+            "id": "84a1438be4469980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Areas/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 387.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -126,7 +122,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "esp32"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,58 +168,56 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "680279cf4697b559",
+  "active": "84a1438be4469980",
   "lastOpenFiles": [
-    "3 Resources/Linux/Pacman package replacements.md",
-    "3 Resources/Linux/1737991852-NKLP.md",
-    "3 Resources/Games/Spoiler stuff/GET OUT/Told you/Signalis Secret ending.md",
-    "0 Inbox/Untitled.md",
+    "3 Resources/Kubernetes/Hello Minikube.md",
+    "3 Resources/Kubernetes.zip",
+    "3 Resources/kubernetes.tar.gz",
+    "3 Resources/Kubernetes/Using minikube to create a cluster.md",
+    "3 Resources/Kubernetes/Kubernetes 101.md",
+    "3 Resources/Kubernetes/Introduction to Kubernetes on Edge with k3s.md",
+    "3 Resources/Kubernetes/Kubernetes-basics Expose Services.md",
+    "3 Resources/Kubernetes/Kubernetes networking.md",
+    "0 Inbox/Stupid alphabet idea.md~",
+    "3 Resources/Kubernetes/Using minikube to create a cluster.md~",
+    "3 Resources/Excalidraw/Drawing 2025-01-18 17.30.52.excalidraw.md",
+    "3 Resources/Nginx docker  image template usage.md",
+    "2 Areas/Local Music Library.md",
+    "some_box/Nginx Variables.md",
+    "zettelkasten/Change images from Nginx.md",
+    "some_box/create staging and prod server in nginx.md",
+    "3 Resources/Reserved Ports.md",
+    "3 Resources/Docker can't expand variables in COPY.md",
+    "3 Resources/Blue-green deployment.md",
+    "3 Resources/Blue-green deployment.md~",
+    "0 Inbox/Super TODOs.md",
+    "1 Projects/index.md",
+    "1 Projects/Index.md",
+    "3 Resources/Git/Git.md",
+    "3 Resources/Git/LazyGit/Untitled.md",
+    "3 Resources/Git/LazyGit",
+    "3 Resources/Git/Git Guidelines.md",
+    "3 Resources/Git/Git Presentation.md",
+    "3 Resources/Kubernetes/Install K3s.md",
+    "3 Resources/Kubernetes/Extra tooling.md",
+    "3 Resources/Kubernetes/Hello Minikube.md~",
+    "0 Inbox/Rol.md",
+    "3 Resources/UART - Universal asynchronous receiver transmitter.md~",
+    "3 Resources/Monopoly Tokens.md~",
+    "3 Resources/Act - run github workflows in docker.md~",
     "3 Resources/Images/SIG_-_Endings_5.jpg",
     "3 Resources/Images/SIG_-_Endings_7.jpg",
     "3 Resources/Images/SIG_-_Endings_6.jpg",
-    "3 Resources/Games/Spoiler stuff/GET OUT/Told you",
-    "3 Resources/Games/Spoiler stuff/GET OUT",
-    "3 Resources/Games/Spoiler stuff",
-    "3 Resources/Games",
-    "2 Areas/Learning to Learn/Bloom's Taxonomy.md",
     "3 Resources/Images/Pasted image 20241216154736.png",
     "3 Resources/Images/wiring redox.jpeg",
     "3 Resources/Images/picow-pinout.svg",
     "3 Resources/Images/Ergo_S-1_Layout.png",
     "3 Resources/Images/MKII left wiring.jpg",
     "3 Resources/Images/Bloom's_revised_taxonomy.png",
-    "3 Resources/Images/RICE sidebar example",
-    "3 Resources/Images/nodemcu esp32s.webp",
-    "3 Resources/Images",
-    "2 Areas/Rust/Crates and packages concepts.md",
-    "2 Areas/Rust",
-    "2 Areas/Learning to Learn",
-    "3 Resources/202404291538 Lista de proyectos real.md",
-    "4 Archive/Past Interests/index.md",
-    "4 Archive/Past Interests",
-    "4 Archive/Old Inbox/Foods with F.md",
-    "4 Archive/Old Inbox/Almuerzo de Mariano en las sierras.md",
-    "4 Archive/Old Inbox",
-    "4 Archive/Inactive Areas/index.md",
-    "4 Archive/Archived Projects/index.md",
-    "1 Projects/Revenant Home Server/Definition.md",
-    "4 Archive/Almuerzo de Mariano en las sierras.md",
-    "1 Projects/Weekend Projects List.md",
-    "1 Projects/Teclado MK2/SEGA ESP32 Project.md",
-    "1 Projects/Teclado MK2/Definition.md",
-    "1 Projects/Piston cup project/Definition.md",
-    "1 Projects/Hyprland RICE 001/Widgets list.md",
-    "1 Projects/Hyprland RICE 001/Hyprland RICE 001.md",
-    "1 Projects/Hyprland RICE 001/Dependencies.md",
-    "1 Projects/Advent of Code 2024/Day 5.md",
-    "1 Projects/Advent of Code 2024/Advent of code 2024.md",
-    "0 Inbox/Article - about unix streams.md",
-    "4 Archive/Old Inbox/202404281044 Schedule Lau.md",
-    "4 Archive/index.md"
+    "3 Resources/Images/nodemcu esp32s.webp"
   ]
 }

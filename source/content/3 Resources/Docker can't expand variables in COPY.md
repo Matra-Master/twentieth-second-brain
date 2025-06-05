@@ -16,7 +16,7 @@ Sí parecen hacer otras cosas facheras pero no eso.
 https://docs.docker.com/build/building/best-practices/#add-or-copy
 
 
-# I'm lame
+# I am lame
 
 Apparently I was missing the {} around that variable. Tried something like this and worked:
 

@@ -24,6 +24,7 @@ https://www.reddit.com/r/unixporn/comments/x9vzdy/bspwm_arch_with_eww_widgets/
 [[Dependencies]]
 
 AGS was renamed to Astal. AGS is now the name of the cli for Astal. 
+QuickShell is my new option for my new bar: https://quickshell.outfoxxed.me/
 
 ChatGPT holds many questions about how to make the thing responsive and stuff.
 
