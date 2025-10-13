@@ -1,6 +1,6 @@
 ---
 tags:
-  - [[Git]]
+  - git
   - guide
 ---
 

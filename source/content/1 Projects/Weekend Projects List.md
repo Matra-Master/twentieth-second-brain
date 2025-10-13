@@ -26,12 +26,11 @@ This is an unordered list of my programming projects. Just the ones i would like
 19. [x] Neovim - Try [Codeium](https://codeium.com/) extension in neovim
 20. [x] Neovim - [Maybe I don't need LSP zero](https://github.com/VonHeikemen/lsp-zero.nvim/blob/v2.x/doc/md/lsp.md#you-might-not-need-lsp-zero) in my neovim?
 21. [ ] Neovim - install and config [laravel.nvim](https://github.com/adalessa/laravel.nvim) plugin
-22. [ ] Neovim - change Packer for [Lazy](https://github.com/folke/lazy.nvim)
-23. [ ] Gitlab - entorno de testing de gitlab runners en docker
+22. [x] Neovim - change Packer for [Lazy](https://github.com/folke/lazy.nvim)
 24. [ ] Transform a sega joystick into a usb joystick
 25. [ ] HTMX research project
-26. [ ] Yu-gi-oh dungeon dice monsters terminal game
-27. [ ] Test AI assisted nvim plugin: https://github.com/yetone/avante.nvim
+26. [ ] Yu-gi-oh dungeon dice monsters game
+27. [x] Test AI assisted nvim plugin: https://github.com/yetone/avante.nvim
 28. [ ] Pantalla de D&D con el ojo del manual de monstruos de 3.5
 
 

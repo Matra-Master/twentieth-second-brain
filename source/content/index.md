@@ -31,3 +31,8 @@ Por ahora sigue el diseño de [The PARA Method](https://www.youtube.com/watch?v=
 - [ ] Procesar carpeta _'some_box'_ de mi anterior Vault
 - [ ] Elegir e implementar _theme_
 - [ ] Investigar integración con [Excalidraw](https://excalidraw.com/)
+
+
+
+
+Observaciones es texto muy largo
