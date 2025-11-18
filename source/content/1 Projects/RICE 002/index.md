@@ -64,7 +64,7 @@ Two possible theming options:
 
 Aesthetics should be done mostly to desktop related stuff. Terminal is in scope but just up to window and shell coloring and theming.
 Notifications, bars, menus, fonts, icons, file manager, wallpaper are in scope. I have to solve Qt vs Gtk but whichever I choose it's inside the scope
-I can include also something like hellwal in scope with a bunch of premade themes for wallpapers; nothing more. I could make palettes based off of some accent color from projects :thinking:
+I can include also something like hellwal (or wallust) in scope with a bunch of premade themes for wallpapers; nothing more. I could make palettes based off of some accent color from projects :thinking:
 
 For now, in terms of theming, scope is three themes: Tuxdi black, Tuxdi white, and Tuxdi Project X(working title, decide project later).
 
