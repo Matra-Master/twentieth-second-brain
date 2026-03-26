@@ -11,7 +11,7 @@ Serie de tareas relacionadas a un objetivo. Con un **deadline**.
 
 # Backlog
 
-- [[Hyprland RICE 001]]
+- [[Project Description]]
 
 # Active
 

@@ -22,33 +22,39 @@ Also, since this is for work anything I do has to work in some way with the mous
 
  ## Software priorities
 
-1. Directly work related
+1. [[Directly work related software]]
   - Terminal
   - Neovim
+  - Terminal multiplexer
+  - Project session manager
   - Two Browsers
-  - pnpm
-  - docker
+  - Any good Node version manager
+  - Any good Node Package Manager
+  - Container engine
   - git
-  - whatever, etc
-2. Software that improves my work mood
-  - Music, DeadBeef
+  - AI Agent
+  - Communications
+1. Software that improves my work mood
+  - Local Music player
   - 
-3. Rice related software
-  - color scheme manager
-  - window manager
-  - toolbars software
-  - notification manager
-  - some super menu
-  - applications launcher
-4. Anything else
+1. [[Rice related software]]
+  - Window Compositor (wayland)
+  - Color scheme manager
+  - Toolbar software
+  - Notification manager
+  - Some super menu
+  - Applications launcher
+1. [[Miscelaneous software]]
+  - Work dotfiles
 
 ## Challenges
 
 The main challenge is the remote session thing. Wayland is not in a good state regarding remote desktop solutions, or at least nothing that I can make accionable remotely.
-Chat is right on the money: I noticed I only need remote terminal access, not graphical access.
+ChatGPT is right on the money: I noticed I only need remote terminal access, not graphical access.
 https://www.reddit.com/r/selfhosted/comments/18491e9/tailscale_the_marvellous_tool_that_became/ Here's someone on reddit talking about their experience with Tailscale.
 So my best practical solution will be like this: Tailscale (mesh VPN) + SSH (or mosh) + tmux
 Objectives of remote session are: unattended, reliable, work as if I'm in a terminal there.
+EDIT: I found [waypipe](https://gitlab.freedesktop.org/mstoeckl/waypipe) where the ssh connection allows for my wayland to be a frontend for wayland apps in the remote machine! This is what I was missing. Now I can access apps remotely without doing a full session.
 
 # Aesthetics
 
@@ -56,8 +62,8 @@ Objectives of remote session are: unattended, reliable, work as if I'm in a term
 
 Two possible theming options:
 
-1. Tuxdi theme. Based off of [Tuxdi main site](https://tuxdi.com/). This is a dark theme with purple and blue accents.
-  -Figma has almost everything I need to create a palette from it.
+1. Tuxdi theme. Based off of [Tuxdi main site](https://tuxdi.com/). This is a dark theme with purple and blue as the main colors, and Rubber duck yellow as the accent?.
+  - Figma has almost everything I need to create a palette from it.
   - [Coolors palette](https://coolors.co/17082f-af2eff-ffb800-ffffff-d88373) I generated an extra color just for fun.
 
 ## Scope
